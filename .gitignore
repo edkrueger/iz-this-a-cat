@@ -104,7 +104,8 @@ venv.bak/
 .mypy_cache/
 
 # OSX
-.DS_store/
+.DS_Store/
 
 # Dogs v.s. Cats data
-dogs-vs-cats/
+dogs-vs-cats/unorganized_data
+dogs-vs-cats/data
