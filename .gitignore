@@ -102,3 +102,9 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# OSX
+.DS_store/
+
+# Dogs v.s. Cats data
+dogs-vs-cats/
