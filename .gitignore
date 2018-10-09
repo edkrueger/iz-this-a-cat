@@ -105,6 +105,7 @@ venv.bak/
 
 # OSX
 .DS_Store/
+**/.DS_Store
 
 # Dogs v.s. Cats data
 dogs-vs-cats/unorganized_data
